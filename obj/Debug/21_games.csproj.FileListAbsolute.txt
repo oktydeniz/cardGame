@@ -1,0 +1,20 @@
+C:\Users\oktay\Documents\Ybs\C#\21_games\bin\Debug\21_games.exe.config
+C:\Users\oktay\Documents\Ybs\C#\21_games\bin\Debug\21_games.exe
+C:\Users\oktay\Documents\Ybs\C#\21_games\bin\Debug\21_games.pdb
+C:\Users\oktay\Documents\Ybs\C#\21_games\obj\Debug\21_games.csprojAssemblyReference.cache
+C:\Users\oktay\Documents\Ybs\C#\21_games\obj\Debug\_21_games.Form1.resources
+C:\Users\oktay\Documents\Ybs\C#\21_games\obj\Debug\_21_games.Properties.Resources.resources
+C:\Users\oktay\Documents\Ybs\C#\21_games\obj\Debug\21_games.csproj.GenerateResource.cache
+C:\Users\oktay\Documents\Ybs\C#\21_games\obj\Debug\21_games.csproj.CoreCompileInputs.cache
+C:\Users\oktay\Documents\Ybs\C#\21_games\obj\Debug\21_games.exe
+C:\Users\oktay\Documents\Ybs\C#\21_games\obj\Debug\21_games.pdb
+E:\C# Programlama\21_games\bin\Debug\21_games.exe.config
+E:\C# Programlama\21_games\bin\Debug\21_games.exe
+E:\C# Programlama\21_games\bin\Debug\21_games.pdb
+E:\C# Programlama\21_games\obj\Debug\21_games.csprojAssemblyReference.cache
+E:\C# Programlama\21_games\obj\Debug\_21_games.Form1.resources
+E:\C# Programlama\21_games\obj\Debug\_21_games.Properties.Resources.resources
+E:\C# Programlama\21_games\obj\Debug\21_games.csproj.GenerateResource.cache
+E:\C# Programlama\21_games\obj\Debug\21_games.csproj.CoreCompileInputs.cache
+E:\C# Programlama\21_games\obj\Debug\21_games.exe
+E:\C# Programlama\21_games\obj\Debug\21_games.pdb
